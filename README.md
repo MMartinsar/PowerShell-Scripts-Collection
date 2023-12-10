@@ -1,7 +1,5 @@
 # PowerShell Scripts Colletion
 
-A collection of PowerShell scripts with different functions.
-
 > [!Warning]
 > I am not responsible of the use and results given when the scripts are used.
 
@@ -27,31 +25,24 @@ To know how each policy works, check the following [official documentation](http
 Set-ExecutionPolicy Restricted
 ```
 
+<br>
+
 ---
 
 <br>
 
+## Managers
 
-## Service_Manager
+In the directory [managers](https://github.com/MMartinsar/PowerShell-Scripts-Collection/tree/main/managers) you will find what I call "managers". This scripts are tools that lets you manage different aspects of something (users for example), instead of having multiple scripts to do simple actions. This tools will have all the options available in one executable and you will be making the changes just by following the directions. 
 
-Service_Manager is a script that lets you manage Windows services without needing to learn every command. Just by following the questions that will guide you through the possibilities of this script, you can change things as the status of the service or even the display name.
-
-It has many options to manage our services:
-
-- ### Status
-
-Let's us choose a service and change it's status to one of the following:
-Start | Stop | Resume | Suspend | Restart | Remove
-
-> [!Note]
-> The stop option will also stop the services that the one we are managing is dependant of.
+<br>
 
 ---
 
-## Rock_Paper_Scissors.
+<br>
 
-This script is a simple Rock, Paper, Scissors game to play against your computer.
+## Scripts
 
----
+In the directory [scripts](https://github.com/MMartinsar/PowerShell-Scripts-Collection/tree/main/scripts) you will find all the scripts.
 
 <br>
