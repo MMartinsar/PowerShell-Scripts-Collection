@@ -21,4 +21,4 @@ ip,name
 ...,...
 ```
 
-![ConfigureIP4](/images/TestConnection_List1.png)
+![ConfigureIP4](/info/images/TestConnection_List1.png)

@@ -18,4 +18,4 @@ The script will ask you to enter the name of the adapter you want to configure a
 
 > [!Note]
 > Sometimes, when you configure the adapter as dynamic after having it static, an error will appear. This error will warn you about the non-existance of any IP route. Just ignore this error as no IP route is expected to exist after having it static. The reason of trying to remove this routes is that, if there are any, the configuration can be done cleanly.
-![ConfigureIP4](/images/ConfigureIP4.png)
+![ConfigureIP4](/info/images/ConfigureIP4.png)
