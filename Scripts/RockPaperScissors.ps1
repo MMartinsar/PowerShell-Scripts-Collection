@@ -1,6 +1,8 @@
 ﻿Write-Output ""
 Write-Output "-------------------------------------"
+Write-Output ""
 Write-Output "    º- Rock, Paper, Scissors! -º"
+Write-Output ""
 Write-Output "-------------------------------------"
 Write-Output ""
 Write-Output "By: MMartinsar - https://github.com/MMartinsar"
