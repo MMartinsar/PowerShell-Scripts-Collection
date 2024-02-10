@@ -13,7 +13,7 @@ By default, PowerShell execution policy is restricted, making it impossible to e
 Set-ExecutionPolicy <option>
 ```
 
-The <option> should be substituted with the following policies: 
+The *option* should be substituted with the following policies: 
 AllSigned | Bypass | Default | RemoteSigned | Undefined | Restricted | Unrestricted
 
 To know how each policy works, check the following [official documentation](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4).
@@ -33,7 +33,12 @@ Set-ExecutionPolicy Restricted
 
 ## Managers
 
-In the directory [managers](https://github.com/MMartinsar/PowerShell-Scripts-Collection/tree/main/managers) you will find what I call "managers". This scripts are tools that lets you manage different aspects of something (users for example), instead of having multiple scripts to do simple actions. This tools will have all the options available in one executable and you will be making the changes just by following the directions. 
+In the directory [managers](https://github.com/MMartinsar/PowerShell-Scripts-Collection/tree/main/managers) you will find what I call "managers". This scripts are tools that lets you manage different aspects of something (users for example), instead of having multiple scripts to do simple actions. This tools will have all the options available in one executable and you will be making the changes just by following the directions.
+
+| Name | Description |
+| ------ | ----- |
+| ServiceManager |  |
+| UserGroupManager |  |
 
 <br>
 

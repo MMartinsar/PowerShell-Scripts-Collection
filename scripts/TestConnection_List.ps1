@@ -19,5 +19,4 @@ foreach($i in $file){
 
 }
 
-Read-Host "Press any button to exit"
-exit
+Read-Host "Press ENTER to exit"
