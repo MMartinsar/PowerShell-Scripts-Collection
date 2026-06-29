@@ -37,8 +37,8 @@ In the directory [managers](https://github.com/MMartinsar/PowerShell-Scripts-Col
 
 | Name | Description |
 | ------ | ----- |
-| ServiceManager |  |
-| UserGroupManager |  |
+| [ServiceManager](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/ServiceManager.md) | An interactive script to manage the services of the PC. |
+| [UserGroupManager](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/UserGroupManager.md) | An interactive script to manage the users of the PC. |
 
 <br>
 
@@ -49,5 +49,20 @@ In the directory [managers](https://github.com/MMartinsar/PowerShell-Scripts-Col
 ## Scripts
 
 In the directory [scripts](https://github.com/MMartinsar/PowerShell-Scripts-Collection/tree/main/scripts) you will find all the scripts.
+
+| Name | Description |
+| ------ | ----- |
+| [ClearDnsClientCache](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/ClearDnsClientCache.md) | Clears DNS cache data from the client's PC. |
+| [Configure IP](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/ConfigureIP.md) | Guides through the configuration of the IP of the PC. |
+| [CreateUser](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/CreateUser.md) | Lets you create an user. |
+| [CreateUser_List](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/CreateUser_List.md) | Creates all the users listed on a given CSV file. |
+| [DeleteUser](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/DeleteUser.md) | Deletes the given user. |
+| [EnableHyperV](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/EnableHyperV.md) | Enables HyperV on the PC. |
+| [EnableSMB2](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/EnableSMB2.md) | Disables SMB1 protocol and enables SMB2. |
+| [RemoveUser_List](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/RemoveUser_List.md) | Deletes all the users listed on a given CSV file. |
+| [RockPaperScissors](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/RockPaperScissors.md) | Plays Rock, Paper & Scissors with you. |
+| [ShutdownTemp](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/ShutdownTemp.md) | Executes a timer to shutdown the PC. Time can be programmed. |
+| [ShutdownTemp_Cancel](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/ShutdownTemp_Cancel.md) | Cancels any programmed shutdown timer. |
+| [TestConnection_List](https://github.com/MMartinsar/PowerShell-Scripts-Collection/blob/main/info/TestConnection_List.md) | Tests the connection between the PC and any other client in the network listed on a given CSV file. |
 
 <br>
